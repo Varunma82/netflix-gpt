@@ -12,7 +12,9 @@
     - Create SignUp User Account    
     - Implement Sign IN user Api
     - Created Redux Store with userSlice
-    - 
+    - Implemented SIgn Out
+    - Update Profile
+    - Fetch From TMDB Movies
 
 
 # Features
